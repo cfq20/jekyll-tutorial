@@ -1,3 +1,7 @@
+---
+title: "How to create a bolg post using Github Pages and Jekyll"
+date: 2018-10-30
+---
 How to create a bolg post using Github Pages and Jekyll
 =======================================================
 The main steps are:
